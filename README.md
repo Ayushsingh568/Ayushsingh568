@@ -16,4 +16,4 @@
 </p>
 
 
-[![GitHub stats](https://github-readme-stats-lovat-rho-56.vercel.app/api?username=Ayushsingh568)](https://github.com/Ayushsingh568/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-lovat-rho-56.vercel.app/api?username=Ayushsingh568&hide=stars,commits,prs,issues)](https://github.com/Ayushsingh568/github-readme-stats)
