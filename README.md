@@ -1,7 +1,7 @@
 ## Hello! I'm Ayush 
 
-Language and tools: 
-<h3 align="left">Languages and Tools:</h3>
+
+<h5 align="left">Languages and Tools:</h5>
 <p align="left"> 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img height="32" width="32"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
