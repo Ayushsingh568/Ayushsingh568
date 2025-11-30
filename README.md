@@ -3,7 +3,7 @@
 Language and tools: 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a> <i class="fa-brands fa-html5" style="color: #e34f26;"></i> </a> 
+<a href="https://www.w3schools.com/html/" target="_blank"> <i class="fa-brands fa-html5" style="color: #e34f26;"></i> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
