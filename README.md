@@ -15,5 +15,5 @@
 <img height="32" width="32"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </p>
 
-
+[![GitHub stats](https://github-readme-stats-lovat-rho-56.vercel.app/api?username=Ayushsingh568&theme=tokyonight&show_icons=true&langs_count=3)](https://github.com/Ayushsingh568/github-readme-stats)
 [![GitHub stats](https://github-readme-stats-lovat-rho-56.vercel.app/api/top-langs/?username=Ayushsingh568&theme=tokyonight&show_icons=true&langs_count=3)](https://github.com/Ayushsingh568/github-readme-stats)
