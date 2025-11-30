@@ -16,4 +16,4 @@
 </p>
 
 [![GitHub stats](https://github-readme-stats-lovat-rho-56.vercel.app/api?username=Ayushsingh568&theme=tokyonight&show_icons=true&langs_count=3)](https://github.com/Ayushsingh568/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsingh568&theme=tokyonight&langs_count=3)](https://github.com/Ayushsingh568/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-lovat-rho-56.vercel.app/api/top-langs/?username=Ayushsingh568&theme=tokyonight&show_icons=true&langs_count=3)](https://github.com/Ayushsingh568/github-readme-stats)
