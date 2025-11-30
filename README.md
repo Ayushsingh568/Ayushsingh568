@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hi there, I'm Ayush 👋
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushsingh568)](https://github.com/anuraghazra/github-readme-stats)
